@@ -1,1 +1,1 @@
-# ReBMDual
+This is the supplementary material which presents detail proofs of the Lemma 1-8 and some reconstructions by the CSMRI algorithms in our paper entitled ‘Regularization by Multiple Dual Frames for Compressed Sensing Magnetic Resonance Imaging with Fixed-point Convergence’, TMI 2022.
